@@ -30,6 +30,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English essays'
+- GITenberg
 tableOfContents: On love -- On bills -- On politics -- On afternoon tea -- On dress
   -- On Christmas -- On the country -- On town -- On children and dogs -- On concerts
   -- On dancing -- On watering places.
